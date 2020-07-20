@@ -2,13 +2,13 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/ritwik-sinha-8854a2146/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ritwik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/@Mr_Ritwik">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Ritwik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/mr_ritwik/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ritwik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -16,7 +16,8 @@
 
 <br />
 
-Hi, I'm Ritwik Sinha, a Full Stack Developer 🚀 from India, currently, I'm a Core Engineer 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Ritwik Sinha, a Full Stack Developer 🚀 from India, currently, I'm a Core Engineer 🙍🏽‍♂️ [@ScriptFoundation](https://scriptindia.org/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com). Beside's programming, I enjoy eating food and traveling.
+
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
