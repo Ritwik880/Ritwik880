@@ -48,4 +48,4 @@ Hi, I'm Ritwik Sinha, a Full Stack Developer 🚀 from India, currently, I'm a C
 
 
 
-![Ritwik's github stats](https://github-readme-stats.vercel.app/api?username=ritwiksinha&show_icons=true&hide_border=true)
+![Ritwik's github stats](https://github-readme-stats.vercel.app/api?username=Ritwik880&show_icons=true&hide_border=true)
