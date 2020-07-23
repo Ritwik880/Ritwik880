@@ -12,7 +12,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Ritwik880.Ritwik880)
+![](https://visitor-badge.glitch.me/badge?page_id=Ritwik880)
 
 <br />
 
