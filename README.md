@@ -47,5 +47,5 @@ Hi, I'm Ritwik Sinha, a Full Stack Developer 🚀 from India, currently, I'm a C
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Ritwik's github stats](https://github-readme-stats.vercel.app/api?username=Ritwik880&show_icons=true&hide_border=true)
+![Ritwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritwik880&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
