@@ -12,7 +12,9 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Ritwik880)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ritwik880.Ritwik880)
+[![GitHub followers](https://img.shields.io/github/followers/Ritwik880.svg?style=social&label=Follow)](https://github.com/Ritwik880?tab=followers)
 
 <br />
 
