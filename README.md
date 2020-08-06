@@ -18,10 +18,6 @@
 
 <br />
 
-Hi, I'm Ritwik Sinha, a Full Stack Developer 🚀 from India, currently, I'm a Core Engineer 🙍🏽‍♂️ [@ScriptFoundation](https://scriptindia.org/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com). Beside's programming, I enjoy eating food and traveling.
-
-
-  ![gif](https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
   
 **Talking about Personal Stuffs:**
 
