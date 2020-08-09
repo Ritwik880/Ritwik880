@@ -18,10 +18,7 @@
 
 <br />
 
-Hi, I'm Ritwik Sinha, a Full Stack Developer 🚀 from India, currently, I'm a Core Engineer 🙍🏽‍♂️ [@ScriptFoundation](https://scriptindia.org/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com). Beside's programming, I enjoy eating food and traveling.
 
-
-  
   
 **Talking about Personal Stuffs:**
 
