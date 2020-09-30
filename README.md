@@ -18,16 +18,6 @@
 
 <br />
 
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on EANA(https://github.com/Ritwik880/EANA);
-- 🌱 I’m currently learning ML; 
-- 👯 I’m looking to collaborate on EANA(https://github.com/Ritwik880/EANA) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started building a website to help students to develop their skills in 2020!
-- 📫 How to reach me: rittiksinha12@gmail.com;
 
 
 **Languages and Tools:**  
