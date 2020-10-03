@@ -10,6 +10,13 @@
 <a href="https://www.instagram.com/mr_ritwik/">
   <img align="left" alt="Ritwik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="<a href="https://www.youtube.com/channel/UCAARrqhtZoZwEoxnVA22WeQ?view_as=subscriber">
+  <img align="left" alt="Ritwik's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="<a href="https://www.hackerrank.com/rittiksinha12">
+  <img align="left" alt="Ritwik's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerank.svg" />
+</a>
+                               
 
 
 
