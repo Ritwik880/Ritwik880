@@ -49,10 +49,10 @@
 
 <br>
 <p align="center">
-  <a href="https://wajahatkarim.com"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/website.png" height="50" width="130" alt="Website"></a>
-	<a href="https://youtube.com/c/WajahatKarim3"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/youtube.png" height="50" width="130" alt="YouTube"></a>
-  <a href="https://wajahatkarim.com/subscribe"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/newsletter.png" height="50" width="130" alt="Newsletter"></a>
-  <a href="https://medium.com/@wajahatkarim3"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/medium.png" height="50" width="130" alt="Medium"></a>
+  <a href="https://theritwik.com"><img src="https://raw.githubusercontent.com/Ritwik880/Ritwik880/master/icons/website.png" height="50" width="130" alt="Website"></a>
+	<a href="https://www.youtube.com/channel/UCAARrqhtZoZwEoxnVA22WeQ?view_as=subscriber"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/youtube.png" height="50" width="130" alt="YouTube"></a>
+  <a href="https://theritwik.com/subscribe"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/newsletter.png" height="50" width="130" alt="Newsletter"></a>
+  <a href="https://medium.com/@ritwik"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/medium.png" height="50" width="130" alt="Medium"></a>
   
 	
 </p>
