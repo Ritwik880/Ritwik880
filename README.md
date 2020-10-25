@@ -45,6 +45,13 @@
 
 ![Ritwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritwik880&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+
+## Projects
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Education-Management-System&theme=highcontrast" width="45%" height="100%">](https://github.com/Ritwik880/EANA)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Malaria-Detection&theme=tokyonight" width="45%" height="100%"/>](https://github.com/Ritwik880/Malaria-Detection)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Animated-Text-Kit&theme=radical" width="45%" height="100%"/>](https://github.com/Ritwik880/Animated-Text-Kit)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Helping-Hand&theme=react" width="45%" height="100%"/>](https://github.com/Ritwik880/Helping-Hand)
+
 👉 Follow me on Twitter or other Internet places I am available below:
 
 <br>
