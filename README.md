@@ -47,7 +47,7 @@
 
 
 ## Projects
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Education-Management-System&theme=highcontrast" width="45%" height="100%">](https://github.com/Ritwik880/EANA)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=EANA&theme=highcontrast" width="45%" height="100%">](https://github.com/Ritwik880/EANA)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Malaria-Detection&theme=tokyonight" width="45%" height="100%"/>](https://github.com/Ritwik880/Malaria-Detection)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Animated-Text-Kit&theme=radical" width="45%" height="100%"/>](https://github.com/Ritwik880/Animated-Text-Kit)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Helping-Hand&theme=react" width="45%" height="100%"/>](https://github.com/Ritwik880/Helping-Hand)
