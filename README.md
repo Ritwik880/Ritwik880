@@ -46,21 +46,3 @@
 ![Ritwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritwik880&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-## Projects
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=EMS&theme=highcontrast" width="45%" height="100%">](https://github.com/Ritwik880/EMS)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Malaria-Detection&theme=tokyonight" width="45%" height="100%"/>](https://github.com/Ritwik880/Malaria-Detection)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Forums&theme=radical" width="45%" height="100%"/>](https://github.com/Ritwik880/Forums)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritwik880&repo=Hospital-Management-System&theme=react" width="45%" height="100%"/>](https://github.com/Ritwik880/Hospital-Management-System)
-
-👉 Follow me on Twitter or other Internet places I am available below:
-
-<br>
-<p align="center">
-  <a href="https://theritwik.com"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/website.png" height="50" width="130" alt="Website"></a>
-	<a href="https://www.youtube.com/channel/UCAARrqhtZoZwEoxnVA22WeQ?view_as=subscriber"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/youtube.png" height="50" width="130" alt="YouTube"></a>
-  <a href="https://theritwik.com/subscribe"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/newsletter.png" height="50" width="130" alt="Newsletter"></a>
-  <a href="https://medium.com/@ritwik"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/medium.png" height="50" width="130" alt="Medium"></a>
-  
-	
-</p>
- 
