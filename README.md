@@ -1,12 +1,5 @@
 ### Hey 👋🏽, I'm [Ritwik!](https://ritwik880.github.io/my-profile/) 
-<br/>
-class Person {
-      constructor() {
-        this.name = "Ritwik Sinha";
-       this.traits = ["WEB", "DEV"];
-      this.age = new Date().getFullYear() - 2001;
-      }
-  }
+
 <br/>
 <a href="https://www.linkedin.com/in/ritwik-sinha-8854a2146/">
   <img align="left" alt="Ritwik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
