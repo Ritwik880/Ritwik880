@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Ritwik!](https://ritwik880.github.io/my-profile/) 
+### Hey 👋🏽, I'm [Ritwik!](http://ritwik-sinha.herokuapp.com) 
 
 <br/>
 <a href="https://www.linkedin.com/in/ritwik-sinha-8854a2146/">
